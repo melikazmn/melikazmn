@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi, I'm Melika 👋
 
 <!--
 **melikazmn/melikazmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👩🏻‍💻 I'm a Computer Science and Engineering student at Shiraz University. <br/>
+👩🏻‍🎨 Worked as a UI/UX designer at [unitap.app](https://unitap.app/) and [Hallery](https://hallery.art/).<br/>
+🌱 Currently learning new things in Artificial Intelligence.<br/>
+📫 Reach me here : [linkedin.com/in/melika-zamani](https://www.linkedin.com/in/melika-zamani/). <br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melikazmn&show_icons=true&theme=dracula)
+

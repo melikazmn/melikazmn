@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Melika:
-👩🏻‍💻 I'm a Computer Science and Engineering student at Shiraz University.<br>👩🏻‍🎨 Worked as a UI/UX designer at [unitap.app](https://unitap.app/) and [Hallery](https://hallery.art/) app.<br>🌱 Currently learning new things in Artificial Intelligence.<br>
+👩🏻‍💻 I'm a Computer Science and Engineering student at Shiraz University.<br>👩🏻‍🎨 Worked as a UI/UX designer at [unitap.app](https://unitap.app/) (Mors Company) and [Hallery](https://hallery.art/) app.<br>🌱 Currently learning new things in Artificial Intelligence.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melika-zamani) 
